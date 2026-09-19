@@ -54,40 +54,21 @@ const med = {
 
 ## `currently_building`
 
-<table>
-  <tr>
-    <td width="50%">
-
 ### 🤖 AI Systems
 
 Designing practical agent workflows, MCP integrations, and AI-powered developer experiences.
-
-    </td>
-    <td width="50%">
 
 ### ⚡ Product Engineering
 
 Turning ideas into reliable SaaS products with strong architecture, UX, and go-to-market foundations.
 
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-
 ### 🦀 Rust Exploration
 
 Learning and applying Rust for high-performance tools, services, and local-first applications.
 
-    </td>
-    <td width="50%">
-
 ### 🎨 Digital Experiences
 
 Building fast, premium, interactive websites that combine design, SEO, and conversion strategy.
-
-    </td>
-  </tr>
-</table>
 
 ## `tech_stack`
 
@@ -138,12 +119,18 @@ Building fast, premium, interactive websites that combine design, SEO, and conve
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mednabouli&show_icons=true&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED&text_color=FFFFFF&rank_icon=github" width="49%" alt="GitHub statistics" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mednabouli&layout=compact&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=FFFFFF" width="41%" alt="Top languages" />
+<a href="https://github.com/mednabouli">
+  <img src="https://github-readme-stats.vercel.app/api?username=mednabouli&show_icons=true&hide=issues,contribs&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED&text_color=FFFFFF&rank_icon=github" width="49%" alt="Med Nabouli's GitHub statistics" />
+</a>
+<a href="https://github.com/mednabouli">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mednabouli&layout=compact&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=FFFFFF&langs_count=8" width="41%" alt="Med Nabouli's top programming languages" />
+</a>
 
 <br />
 
-<img src="https://streak-stats.demolab.com?user=mednabouli&theme=dark&hide_border=true&background=0D1117&ring=7C3AED&fire=F97316&currStreakLabel=FFFFFF" width="70%" alt="GitHub contribution streak" />
+<a href="https://github.com/mednabouli">
+  <img src="https://streak-stats.demolab.com?user=mednabouli&theme=dark&hide_border=true&background=0D1117&ring=7C3AED&fire=F97316&currStreakLabel=FFFFFF" width="70%" alt="Med Nabouli's GitHub contribution streak" />
+</a>
 
 </div>
 
