@@ -119,17 +119,20 @@ Building fast, premium, interactive websites that combine design, SEO, and conve
 
 <div align="center">
 
-<a href="https://github.com/mednabouli">
-  <img src="https://github-readme-stats.vercel.app/api?username=mednabouli&show_icons=true&hide=issues,contribs&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED&text_color=FFFFFF&rank_icon=github" width="49%" alt="Med Nabouli's GitHub statistics" />
+<a href="https://github.com/mednabouli?tab=repositories">
+  <img src="https://img.shields.io/badge/View_all_repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View all repositories" />
 </a>
-<a href="https://github.com/mednabouli">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mednabouli&layout=compact&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=FFFFFF&langs_count=8" width="41%" alt="Med Nabouli's top programming languages" />
+<a href="https://github.com/mednabouli?tab=overview">
+  <img src="https://img.shields.io/badge/View_GitHub_activity-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub activity" />
+</a>
+<a href="https://github.com/mednabouli?tab=stars">
+  <img src="https://img.shields.io/badge/View_starred_projects-F97316?style=for-the-badge&logo=github&logoColor=white" alt="View starred projects" />
 </a>
 
 <br />
 
-<a href="https://github.com/mednabouli">
-  <img src="https://streak-stats.demolab.com?user=mednabouli&theme=dark&hide_border=true&background=0D1117&ring=7C3AED&fire=F97316&currStreakLabel=FFFFFF" width="70%" alt="Med Nabouli's GitHub contribution streak" />
+<a href="https://github.com/mednabouli/mednabouli/graphs/contributors">
+  <img src="https://img.shields.io/badge/View_contribution_graph-111827?style=for-the-badge&logo=github&logoColor=white" alt="View contribution graph" />
 </a>
 
 </div>
@@ -142,10 +145,13 @@ I’m open to ambitious software products, AI infrastructure, developer tooling,
   <a href="https://github.com/mednabouli">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a href="https://www.linkedin.com/in/mednabouli/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
   <a href="https://mednabouli.me/">
     <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="mailto:YOUR_EMAIL@example.com">
+  <a href="mailto:mednabouli@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
